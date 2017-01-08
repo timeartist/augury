@@ -5,6 +5,7 @@
  - These tests should not work when the branch is first checked out and pass once the participant completes the requirements.
  - This allows participants to check their work, as well as provide a starting point for figuring out the problem being solved in the section
 - Each branch should break its tasks into issues in the repo.
- - In the master branch, relevant code should be tagged to the task.
+ - In the master branch, relevant code should be tagged to the task.  
+   - This is done through [commit message tagging](https://github.com/blog/957-introducing-issue-mentions)
  - This allows participants to simply review how to implement a given idea without needing to actually do so themselves.
  - Each branch should change it's README to explain the task at hand, referencing those tasks.

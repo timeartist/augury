@@ -4,7 +4,7 @@
 ## Introduction
 Augury is a tutorial on how to create an end to end [lambda architecture](https://en.wikipedia.org/wiki/Lambda_architecture) using [Redis](https://redis.io) as the primary data store and backbone.  It is broken into several parts that are represented as feature branches, each one implementing a different component of the architecture.  
 
-When complete, you will have the ability to garner batch and real time insights from your webserver with minimal latency impact on your running application.  You'll also have the beginnings of an analytics platform that you can use to track user behavior, generate reccomendations or provide personalization.  
+When complete, you will have the ability to garner batch and real time insights from your webserver with minimal latency impact on your running application.  You'll also have the beginnings of an analytics platform that you can use to track user behavior, generate recommendations or provide personalization.  
 
 ## Set-up
 ### Requirements
